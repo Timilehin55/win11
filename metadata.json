@@ -1,0 +1,6 @@
+{
+  "name": "Win11 Desktop",
+  "description": "An interactive, visually rich, and full-featured Windows 11 Fluent desktop environment simulator for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
